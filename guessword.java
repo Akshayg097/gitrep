@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 public class guessword {
-    public static void main1(String[] args) {
+    public static void main(String[] args) {
         Scanner guess = new Scanner(System.in);
 
         String word = "akshay";
